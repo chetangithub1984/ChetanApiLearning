@@ -1,0 +1,6 @@
+Interview question link - https://sqe-automation.blogspot.com/p/api-interview-question.html
+Start JSON Server
+
+json-server --watch db.json
+
+Server related links - https://github.com/typicode/json-server
